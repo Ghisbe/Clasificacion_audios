@@ -5,7 +5,7 @@
 
 Trabajo final en el programa Mil mujeres en IA
 
-Clasificacion de audios en fake y reales y luego la imprementacion de Random Forest para cladificar nuevos audios.
+Clasificación de audios en fake y reales y luego la imprementacion de Random Forest para clasificar nuevos audios.
 
 
 Integrantes: 
