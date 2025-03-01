@@ -12,3 +12,6 @@ Integrantes:
 Yennifer Garcia
 Gisela Belen Figueroa
 Maria Zuñiga
+
+Fuente de datos:
+Kaggle
