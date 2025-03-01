@@ -1,4 +1,4 @@
-# Clasificacion_audios
+# Clasificación_audios
 
 
 ![audio-signal-icon-sound-icon-sound-waves-symbol-music-pulse-sign-vector](https://github.com/user-attachments/assets/f2f8b64b-abc1-4379-b44a-82d045328428)
